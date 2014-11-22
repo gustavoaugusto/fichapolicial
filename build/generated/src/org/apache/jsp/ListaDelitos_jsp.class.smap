@@ -1,0 +1,15 @@
+SMAP
+ListaDelitos_jsp.java
+JSP
+*S JSP
+*F
++ 0 ListaDelitos.jsp
+ListaDelitos.jsp
+*L
+1,51:54
+51:141,11
+52,2:152
+54:154,3
+55,3:157
+57,17:107
+*E
